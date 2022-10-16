@@ -1,0 +1,1 @@
+Secound line of extrarepo dir in sec.txt
